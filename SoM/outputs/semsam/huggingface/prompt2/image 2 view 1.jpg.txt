@@ -1,0 +1,48 @@
+
+        USER: 
+        I have labeled a bright numeric ID at the center for each visual object in the image.
+        Please enumerate their names.Assign a label to each number tag based on the region.
+        Follow this **exact** format: {number:label}.
+        No need to include any extra information in your response.
+        ASSISTANT:
+      1. A laptop on a desk.
+      2. A blue backpack.
+      3. A wooden desk.
+      4. A whiteboard with the text "WS-719" on it.
+      5. A black power strip with multiple outlets.
+      6. A black thermos.
+      7. A black power adapter or charger.
+      8. A black power adapter or charger.
+      9. A black power adapter or charger.
+      10. A black power adapter or charger.
+      11. A black power adapter or charger.
+      12. A black power adapter or charger.
+      13. A black power adapter or charger.
+      14. A black power adapter or charger.
+      15. A black power adapter or charger.
+      16. A black power adapter or charger.
+      17. A black power adapter or charger.
+      18. A black power adapter or charger.
+      19. A black power adapter or charger.
+      20. A black power adapter or charger.
+      21. A black power adapter or charger.
+      22. A black power adapter or charger.
+      23. A black power adapter or charger.
+      24. A black power adapter or charger.
+      25. A black power adapter or charger.
+      26. A black power adapter or charger.
+      27. A black power adapter or charger.
+      28. A black power adapter or charger.
+      29. A black power adapter or charger.
+      30. A black power adapter or charger.
+      31. A black power adapter or charger.
+      32. A black power adapter or charger.
+      33. A black power adapter or charger.
+      34. A black power adapter or charger.
+      35. A black power adapter or charger.
+      36. A black power adapter or charger.
+      37. A black power adapter or charger.
+      38. A black power adapter or charger.
+      39. A black power adapter or charger.
+      40. A black power adapter or charger.
+      4

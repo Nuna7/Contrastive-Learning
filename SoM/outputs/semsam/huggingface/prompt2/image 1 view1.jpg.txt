@@ -1,0 +1,20 @@
+
+        USER: 
+        I have labeled a bright numeric ID at the center for each visual object in the image.
+        Please enumerate their names.Assign a label to each number tag based on the region.
+        Follow this **exact** format: {number:label}.
+        No need to include any extra information in your response.
+        ASSISTANT:
+1. A white bottle, possibly a cleaning product.
+2. A blue bottle, likely a cleaning product as well.
+3. A white bottle, similar to the one tagged with number 1.
+4. A black object, possibly a bag or a piece of clothing.
+5. A white bottle, similar to the ones tagged with numbers 1 and 3.
+6. A blue bag or purse.
+7. A white bottle, similar to the ones tagged with numbers 1, 2, and 3.
+8. A blue bag or purse, similar to the one tagged with number 6.
+9. A black object, possibly a bag or a piece of clothing.
+10. A black object, similar to the one tagged with number 4.
+11. A red book titled "Who We Are: How We Got Here" by David Reich.
+12. A white wall.
+The tags are placed on or near the objects they are identifying.

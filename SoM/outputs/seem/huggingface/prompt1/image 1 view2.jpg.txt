@@ -1,0 +1,23 @@
+
+    USER: 
+    Each number tags represent a semantic region defined by the masks. 
+    The black block with number in the middle in first color are the tags for the regions.
+    Assign a label to each number tag based on the region.
+    If the region is not relevant, just ignore it.
+
+    Follow this **exact** format: {number:label}. 
+
+    Example: An image with 3 regions, where the first region is a cat with number tag 1, 
+    the second region is a dog with number tag 2, and the third region is a tree with number tag 3.
+    Output: {1:cat, 2:dog, 3:tree}
+
+    No need to include any extra information in your response.
+    ASSISTANT:
+    1. A green container with a lid.
+    2. A white and pink object, possibly a box or a container.
+    3. A blue bag.
+    4. A black curtain.
+    5. A book titled "Who We Are: A Brief Remark on Human Beings" by David Reich.
+    6. The spine of the book mentioned in tag 5.
+    7. A brown curtain.
+    The tags are placed on top of the objects they are identifying.

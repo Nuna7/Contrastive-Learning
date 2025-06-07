@@ -1,0 +1,9 @@
+ 358: Window
+960: Desk
+1272: Person (center)
+460: Backpack on the chair
+820: Chair
+868: Computer monitor
+468: Pillar in front of window
+581: Potted plant
+434: Door frame

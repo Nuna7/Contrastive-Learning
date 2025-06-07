@@ -1,0 +1,60 @@
+
+    USER: 
+    Each number tags represent a semantic region defined by the masks. 
+    The black block with number in the middle in first color are the tags for the regions.
+    Assign a label to each number tag based on the region.
+    If the region is not relevant, just ignore it.
+
+    Follow this **exact** format: {number:label}. 
+
+    Example: An image with 3 regions, where the first region is a cat with number tag 1, 
+    the second region is a dog with number tag 2, and the third region is a tree with number tag 3.
+    Output: {1:cat, 2:dog, 3:tree}
+
+    No need to include any extra information in your response.
+    ASSISTANT:
+    1. A blue backpack.
+    2. A black speaker.
+    3. A laptop on a desk.
+    4. A wooden desk.
+    5. A white wall.
+    6. A wooden chair.
+    7. A white wall with a reflection.
+    8. A white wall with a reflection.
+    9. A white wall with a reflection.
+    10. A white wall with a reflection.
+    11. A white wall with a reflection.
+    12. A white wall with a reflection.
+    13. A white wall with a reflection.
+    14. A white wall with a reflection.
+    15. A white wall with a reflection.
+    16. A white wall with a reflection.
+    17. A white wall with a reflection.
+    18. A white wall with a reflection.
+    19. A white wall with a reflection.
+    20. A white wall with a reflection.
+    21. A white wall with a reflection.
+    22. A white wall with a reflection.
+    23. A white wall with a reflection.
+    24. A white wall with a reflection.
+    25. A white wall with a reflection.
+    26. A white wall with a reflection.
+    27. A white wall with a reflection.
+    28. A white wall with a reflection.
+    29. A white wall with a reflection.
+    30. A white wall with a reflection.
+    31. A white wall with a reflection.
+    32. A white wall with a reflection.
+    33. A white wall with a reflection.
+    34. A white wall with a reflection.
+    35. A white wall with a reflection.
+    36. A white wall with a reflection.
+    37. A white wall with a reflection.
+    38. A white wall with a reflection.
+    39. A white wall with a reflection.
+    40. A white wall with a reflection.
+    41. A white wall with a reflection.
+    42. A white wall with a reflection.
+    43. A white wall with a reflection.
+    44. A white wall with a reflection.
+    45. A white

@@ -1,0 +1,10 @@
+ {
+
+1: bookshelf,
+2: book cover,
+3: author name,
+4: text content,
+5: background image,
+6: room corner,
+7: object on top of shelf,
+8: blurry edges.

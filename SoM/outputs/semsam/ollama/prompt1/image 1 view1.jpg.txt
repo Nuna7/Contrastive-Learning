@@ -1,0 +1,1 @@
+ {0:book, 6:shoe, 7:shirt}

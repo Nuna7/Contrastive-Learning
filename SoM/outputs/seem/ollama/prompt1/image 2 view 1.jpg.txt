@@ -1,0 +1,2 @@
+ The image provided shows a desk and the items on it, which are labeled with number tags. Here's the labeling based on the regions defined by the masks:
+{1: laptop, 2: speaker, 3: backpack}

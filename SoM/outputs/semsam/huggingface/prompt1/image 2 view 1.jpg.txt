@@ -1,0 +1,44 @@
+
+    USER: 
+    Each number tags represent a semantic region defined by the masks. 
+    The black block with number in the middle in first color are the tags for the regions.
+    Assign a label to each number tag based on the region.
+    If the region is not relevant, just ignore it.
+
+    Follow this **exact** format: {number:label}. 
+
+    Example: An image with 3 regions, where the first region is a cat with number tag 1, 
+    the second region is a dog with number tag 2, and the third region is a tree with number tag 3.
+    Output: {1:cat, 2:dog, 3:tree}
+
+    No need to include any extra information in your response.
+    ASSISTANT:
+    1. A black object, possibly a speaker or a small electronic device.
+    2. A blue backpack.
+    3. A wooden desk.
+    4. A laptop computer.
+    5. A whiteboard with the text "WS-719" on it.
+    6. A black object, possibly a power strip or a small electronic device.
+    7. A black object, possibly a power strip or a small electronic device.
+    8. A black object, possibly a power strip or a small electronic device.
+    9. A black object, possibly a power strip or a small electronic device.
+    10. A black object, possibly a power strip or a small electronic device.
+    11. A black object, possibly a power strip or a small electronic device.
+    12. A black object, possibly a power strip or a small electronic device.
+    13. A black object, possibly a power strip or a small electronic device.
+    14. A black object, possibly a power strip or a small electronic device.
+    15. A black object, possibly a power strip or a small electronic device.
+    16. A black object, possibly a power strip or a small electronic device.
+    17. A black object, possibly a power strip or a small electronic device.
+    18. A black object, possibly a power strip or a small electronic device.
+    19. A black object, possibly a power strip or a small electronic device.
+    20. A black object, possibly a power strip or a small electronic device.
+    21. A black object, possibly a power strip or a small electronic device.
+    22. A black object, possibly a power strip or a small electronic device.
+    23. A black object, possibly a power strip or a small electronic device.
+    24. A black object, possibly a power strip or a small electronic device.
+    25. A black object, possibly a power strip or a small electronic device.
+    26. A black object, possibly a power strip or a small electronic device.
+    27. A black object, possibly a power strip or a small electronic device.
+    28. A black object, possibly a power strip or a small electronic device.
+    29. A black object, possibly a power strip or a small electronic

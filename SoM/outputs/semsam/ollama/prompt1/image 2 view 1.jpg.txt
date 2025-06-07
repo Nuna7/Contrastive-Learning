@@ -1,0 +1,1 @@
+ {0: laptop, 1: power strip, 2: desk lamp, 3: book, 4: computer monitor, 5: backpack, 6: notebook, 7: pen holder, 8: paper document}

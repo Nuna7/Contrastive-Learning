@@ -1,0 +1,1 @@
+ {1:book, 2:pillow, 3:bag, 4:wall}

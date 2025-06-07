@@ -1,0 +1,62 @@
+
+    USER: 
+    Each number tags represent a semantic region defined by the masks. 
+    The black block with number in the middle in first color are the tags for the regions.
+    Assign a label to each number tag based on the region.
+    If the region is not relevant, just ignore it.
+
+    Follow this **exact** format: {number:label}. 
+
+    Example: An image with 3 regions, where the first region is a cat with number tag 1, 
+    the second region is a dog with number tag 2, and the third region is a tree with number tag 3.
+    Output: {1:cat, 2:dog, 3:tree}
+
+    No need to include any extra information in your response.
+    ASSISTANT:
+    1. A blue backpack.
+    2. A laptop on a wooden desk.
+    3. A whiteboard with the text "WS-719".
+    4. A black cylindrical object, possibly a container or a thermos.
+    5. A wooden desk.
+    6. A wooden desk.
+    7. A glass window or partition.
+    8. A wooden desk.
+    9. A glass window or partition.
+    10. A wooden desk.
+    11. A glass window or partition.
+    12. A glass window or partition.
+    13. A glass window or partition.
+    14. A glass window or partition.
+    15. A glass window or partition.
+    16. A glass window or partition.
+    17. A glass window or partition.
+    18. A glass window or partition.
+    19. A glass window or partition.
+    20. A glass window or partition.
+    21. A glass window or partition.
+    22. A glass window or partition.
+    23. A glass window or partition.
+    24. A glass window or partition.
+    25. A glass window or partition.
+    26. A glass window or partition.
+    27. A glass window or partition.
+    28. A glass window or partition.
+    29. A glass window or partition.
+    30. A glass window or partition.
+    31. A glass window or partition.
+    32. A glass window or partition.
+    33. A glass window or partition.
+    34. A glass window or partition.
+    35. A glass window or partition.
+    36. A glass window or partition.
+    37. A glass window or partition.
+    38. A glass window or partition.
+    39. A glass window or partition.
+    40. A glass window or partition.
+    41. A glass window or partition.
+    42. A glass window or partition.
+    43. A glass window or partition.
+    44. A glass window or partition.
+    45. A glass window or partition.
+    46. A glass window or partition.
+    4

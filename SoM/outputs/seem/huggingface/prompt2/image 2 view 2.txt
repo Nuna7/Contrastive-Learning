@@ -1,0 +1,51 @@
+
+        USER: 
+        I have labeled a bright numeric ID at the center for each visual object in the image.
+        Please enumerate their names.Assign a label to each number tag based on the region.
+        Follow this **exact** format: {number:label}.
+        No need to include any extra information in your response.
+        ASSISTANT:
+      1. A blue backpack.
+      2. A laptop on a desk.
+      3. A white wall with a pattern.
+      4. A black speaker.
+      5. A wooden desk.
+      6. A white wall with a pattern.
+      7. A white wall with a pattern.
+      8. A white wall with a pattern.
+      9. A white wall with a pattern.
+      10. A white wall with a pattern.
+      11. A white wall with a pattern.
+      12. A white wall with a pattern.
+      13. A white wall with a pattern.
+      14. A white wall with a pattern.
+      15. A white wall with a pattern.
+      16. A white wall with a pattern.
+      17. A white wall with a pattern.
+      18. A white wall with a pattern.
+      19. A white wall with a pattern.
+      20. A white wall with a pattern.
+      21. A white wall with a pattern.
+      22. A white wall with a pattern.
+      23. A white wall with a pattern.
+      24. A white wall with a pattern.
+      25. A white wall with a pattern.
+      26. A white wall with a pattern.
+      27. A white wall with a pattern.
+      28. A white wall with a pattern.
+      29. A white wall with a pattern.
+      30. A white wall with a pattern.
+      31. A white wall with a pattern.
+      32. A white wall with a pattern.
+      33. A white wall with a pattern.
+      34. A white wall with a pattern.
+      35. A white wall with a pattern.
+      36. A white wall with a pattern.
+      37. A white wall with a pattern.
+      38. A white wall with a pattern.
+      39. A white wall with a pattern.
+      40. A white wall with a pattern.
+      41. A white wall with a pattern.
+      42. A white wall with a pattern.
+      43. A white wall with a pattern.
+      44. A white wall with a pattern.

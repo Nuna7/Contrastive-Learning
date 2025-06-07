@@ -1,0 +1,37 @@
+
+    USER: 
+    Each number tags represent a semantic region defined by the masks. 
+    The black block with number in the middle in first color are the tags for the regions.
+    Assign a label to each number tag based on the region.
+    If the region is not relevant, just ignore it.
+
+    Follow this **exact** format: {number:label}. 
+
+    Example: An image with 3 regions, where the first region is a cat with number tag 1, 
+    the second region is a dog with number tag 2, and the third region is a tree with number tag 3.
+    Output: {1:cat, 2:dog, 3:tree}
+
+    No need to include any extra information in your response.
+    ASSISTANT:
+    1. A blue backpack.
+    2. A laptop on a desk.
+    3. A black speaker.
+    4. A wooden desk.
+    5. A white wall.
+    6. A blue backpack.
+    7. A white wall.
+    8. A white wall.
+    9. A wooden desk.
+    10. A white wall.
+    11. A white wall.
+    12. A white wall.
+    13. A white wall.
+    14. A white wall.
+    15. A white wall.
+    16. A white wall.
+    17. A white wall.
+    18. A white wall.
+    19. A white wall.
+    20. A white wall.
+    21. A white wall.
+    The image is a 3D model of an office space with various objects and walls.

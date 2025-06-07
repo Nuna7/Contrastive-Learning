@@ -1,0 +1,65 @@
+
+        USER: 
+        I have labeled a bright numeric ID at the center for each visual object in the image.
+        Please enumerate their names.Assign a label to each number tag based on the region.
+        Follow this **exact** format: {number:label}.
+        No need to include any extra information in your response.
+        ASSISTANT:
+1. A laptop on a desk.
+2. A black speaker.
+3. A blue backpack.
+4. A chair.
+5. A white wall.
+6. A whiteboard.
+7. A whiteboard marker.
+8. A whiteboard eraser.
+9. A desk.
+10. A desk drawer.
+11. A whiteboard marker holder.
+12. A whiteboard marker.
+13. A whiteboard marker.
+14. A person's reflection on the glass wall.
+15. A whiteboard marker.
+16. A whiteboard marker.
+17. A whiteboard marker.
+18. A whiteboard marker.
+19. A whiteboard marker.
+20. A whiteboard marker.
+21. A whiteboard marker.
+22. A whiteboard marker.
+23. A whiteboard marker.
+24. A whiteboard marker.
+25. A whiteboard marker.
+26. A whiteboard marker.
+27. A whiteboard marker.
+28. A whiteboard marker.
+29. A whiteboard marker.
+30. A whiteboard marker.
+31. A whiteboard marker.
+32. A whiteboard marker.
+33. A whiteboard marker.
+34. A whiteboard marker.
+35. A whiteboard marker.
+36. A whiteboard marker.
+37. A whiteboard marker.
+38. A whiteboard marker.
+39. A whiteboard marker.
+40. A whiteboard marker.
+41. A whiteboard marker.
+42. A whiteboard marker.
+43. A whiteboard marker.
+44. A whiteboard marker.
+45. A whiteboard marker.
+46. A whiteboard marker.
+47. A whiteboard marker.
+48. A whiteboard marker.
+49. A whiteboard marker.
+50. A whiteboard marker.
+51. A whiteboard marker.
+52. A whiteboard marker.
+53. A whiteboard marker.
+54. A whiteboard marker.
+55. A whiteboard marker.
+56. A whiteboard marker.
+57. A whiteboard marker.
+58. A

@@ -1,0 +1,1 @@
+ 1: laptop, 2: speaker, 3: wall-mounted charger, 4: backpack, 5: desk surface, 6: floor space on right of image.
