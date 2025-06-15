@@ -67,3 +67,11 @@
 
 ### Environment
 Both models use different conda environment with their corresponding yml file `som_environments.yml` and `pixelclip_environments.yml`
+
+### Note
+Clone the repository as submodule.
+
+```bash
+git clone --recurse-submodules https://github.com/Nuna7/Contrastive-Learning.git
+git submodule update --init --recursive
+```

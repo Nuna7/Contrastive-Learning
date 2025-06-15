@@ -1,0 +1,3 @@
+[submodule "PixelCLIP"]
+	path = PixelCLIP
+	url = https://github.com/cvlab-kaist/PixelCLIP.git
