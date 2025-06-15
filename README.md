@@ -1,21 +1,27 @@
-## 📊 Evaluation of SoM-LLava on Multi-View Images
+## 📊 Evaluation of SoM-LLava and PixelCLIP on Multi-View Images
 
 ### 📁 Directory Structure
 
-- **Evaluation root path**:  
+- **Evaluation root path for SoM-LLava**:  
   `/SoM/`
+
+- **Evaluation root path for PixelCLIP**:  
+  `/PixelCLIP/`
 
 - **Input images**:  
   `/SoM/images/`
+  `/PixelCLIP/images/`
 
 - **Output results**:  
   `/SoM/outputs/`
+  `/PixelCLIP/outputs/`
 
 ### 🧠 Models Used
 
 #### 🔍 Vision Models
 - SemanticSAM (`semsam`)
 - Segment Everything Everywhere All At Once (`seem`)
+- PixelCLIP
 
 #### 💬 Language Models
 - **LLaVA 1.5 (13B)**  
@@ -34,7 +40,11 @@
 ### 🧪 Evaluation Code
 
 - Evaluation code is located at:  
-  `/SoM/set_off_mask_model/py`
+- **SOM-Lllava**:
+  `/SoM/set_off_mask_model.py`
+
+- **PixelCLIP**:
+  `/PixelCLIP/main.py`
 
 ---
 
@@ -42,10 +52,18 @@
 
 1. Create a directory at:  
    `/SoM/checkpoints/`
+   `/PixelCLIP/weights/`
 
 2. Navigate to the script:  
+- **SOM-Lllava**:
    `/SoM/download_ckpt.sh`
 
-3. Run the **first two commands** in the script to download checkpoints for:
+   Run the **first two commands** in the script to download checkpoints for:
    - `seem`
    - `semsam`
+
+- **PixelCLIP**:
+    `wget https://huggingface.co/hsshin98/PixelCLIP/resolve/main/weights/pixelclip_vit_base.pth -O PixelCLIP/weights/pixelclip_vit_base_sa1b/model_final.pth`
+
+### Environment
+Both models use different conda environment with their corresponding yml file `som_environments.yml` and `pixelclip_environments.yml`
