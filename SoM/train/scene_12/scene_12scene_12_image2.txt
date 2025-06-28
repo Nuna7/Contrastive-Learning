@@ -1,0 +1,18 @@
+1. A staircase.
+    2. A wall.
+    3. A window.
+    4. A black object on the floor, possibly a bag or a shoe.
+    5. A plant.
+    6. A white sofa.
+    7. A white chair.
+    8. A black object on the floor, possibly a bag or a shoe.
+    9. A plant.
+    10. A black object on the floor, possibly a bag or a shoe.
+    11. A white chair.
+    12. A plant.
+    13. A white sofa.
+    14. A black object on the floor, possibly a bag or a shoe.
+    15. A wall.
+    16. A wall.
+    17. A black object on the floor, possibly a bag or a shoe.
+    18. A white chair.

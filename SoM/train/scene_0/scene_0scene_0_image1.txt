@@ -1,0 +1,10 @@
+1. A wall clock.
+    2. A mirror reflecting the image of a window.
+    3. A bath mat.
+    4. A sink.
+    5. A bathtub.
+    6. A window with blinds partially open.
+    7. A window with blinds fully open.
+    8. Tiled flooring.
+    9. A towel hanging on a towel rack.
+    10. A shower curtain.

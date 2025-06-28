@@ -1,0 +1,25 @@
+1. A plate on the table.
+    2. A bowl on the table.
+    3. A knife on the table.
+    4. A spoon on the table.
+    5. A fork on the table.
+    6. A bowl on the countertop.
+    7. A plate on the table.
+    8. A plate on the table.
+    9. A chair.
+    10. A stove.
+    11. A chair.
+    12. A microwave.
+    13. A chair.
+    14. A stove.
+    15. A microwave.
+    16. A chandelier.
+    17. A chair.
+    18. A plate on the table.
+    19. A plate on the table.
+    20. A microwave.
+    21. A refrigerator.
+    22. A chair.
+    23. A wall.
+    24. A plate on the table.
+    25. A wall.

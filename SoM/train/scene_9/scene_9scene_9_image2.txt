@@ -1,0 +1,27 @@
+1. A kitchen countertop.
+    2. A kitchen sink.
+    3. A kitchen faucet.
+    4. A kitchen drawer.
+    5. A kitchen cabinet.
+    6. A kitchen appliance, possibly a coffee maker.
+    7. A kitchen appliance, possibly a toaster.
+    8. A kitchen appliance, possibly a blender.
+    9. A kitchen appliance, possibly a mixer.
+    10. A kitchen appliance, possibly a food processor.
+    11. A kitchen appliance, possibly a stand mixer.
+    12. A kitchen appliance, possibly a dishwasher.
+    13. A kitchen appliance, possibly a microwave.
+    14. A kitchen appliance, possibly an oven.
+    15. A kitchen appliance, possibly a refrigerator.
+    16. A kitchen appliance, possibly a coffee maker.
+    17. A kitchen appliance, possibly a dishwasher.
+    18. A kitchen appliance, possibly a refrigerator.
+    19. A kitchen appliance, possibly a microwave.
+    20. A kitchen appliance, possibly a dishwasher.
+    21. A kitchen appliance, possibly a microwave.
+    22. A kitchen appliance, possibly a refrigerator.
+    23. A kitchen appliance, possibly a microwave.
+    24. A kitchen appliance, possibly a dishwasher.
+    25. A kitchen appliance, possibly a microwave.
+    26. A kitchen appliance, possibly a refrigerator.
+    27. A kitchen appliance, possibly a refrigerator.
